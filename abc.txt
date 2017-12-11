@@ -1,5 +1,9 @@
 aaaaaaaaaaaa1
 
+<<<<<<< HEAD
 change 1 master
 
 diff staged
+=======
+change HA
+>>>>>>> HA
